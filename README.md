@@ -2,7 +2,7 @@
 list of members
 
 | Last | First | Github ID | Some Sentence |
-| :---      | :---       | :---      | :---          |
+| Banwait| Arvin| why-are-we-doing-this| The pre-cal test was rigged|
 | Arora | Riya | updown2 | !.!.!.!.!.! |
 | Becker | Barry | barrybecker4 | Git Kraken |
 | Chen | Alan | AVerteC | The death of a dream is the day that you stop believing in the work it takes to get there. |
